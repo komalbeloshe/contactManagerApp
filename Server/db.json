@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "name": "Bhushan Tajne",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/03/04/22/35/avatar-659651_1280.png",
+      "mobile": "8668992201",
+      "email": "bhushan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Fullstack Developer",
+      "groupsId": "4",
+      "id": 2
+    },
+    {
+      "name": "Komal Beloshe",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359554_1280.png",
+      "mobile": "9923815411",
+      "email": "komalbeloshe97700@gmail.com",
+      "company": "CI Instution",
+      "title": "Software Engineer",
+      "groupsId": "4",
+      "id": 3
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
